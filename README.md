@@ -17,7 +17,9 @@ The application is capable of satisfy the following functionalities:
 Moreover, the app is expected to be developed using MiT App Inventor to store details in the database using TinyDB. This includes user account information, the number of tickets booked by each user, and details of the latest ticket booked by the user.
 
 <h2> STORYBOARD </h2>
+
 ![storyboard](https://github.com/user-attachments/assets/443dcf67-d445-46ac-af37-d6c7dfc695a7)
 
 <h2> UI/UX FLOWCHART </h2>
+
 ![ux_flowchart](https://github.com/user-attachments/assets/db774be4-b1a2-4884-b55b-98d972ad6bbe)
