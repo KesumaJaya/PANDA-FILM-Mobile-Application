@@ -14,7 +14,7 @@ The application is capable of satisfy the following functionalities:
 • Capability to calculate total charges based on ticket quantity and types (adult/child). <br>
 • Access to view and manage the latest ticket bookings on the user's ticket page. <br>
 
-Moreover, the app is expected to be developed using MiT App Inventor to store details in the database using TinyDB. This includes user account information, the number of tickets booked by each user, and details of the latest ticket booked by the user.
+Moreover, the app is developed using MiT App Inventor to store details in the database using TinyDB. This includes user account information, the number of tickets booked by each user, and details of the latest ticket booked by the user.
 
 <h2> STORYBOARD </h2>
 
