@@ -7,12 +7,12 @@ The main goal of creating the proposed website and mobile app for PANDA FILM is 
 
 The application is capable of satisfy the following functionalities:
 
-• User registration functionality to create and manage accounts.
-• Support for multiple user accounts on a single device.
-• Main feed displaying all available films categorized by genre.
-• Intuitive and user-friendly ticket booking process.
-• Capability to calculate total charges based on ticket quantity and types (adult/child).
-• Access to view and manage the latest ticket bookings on the user's ticket page.
+• User registration functionality to create and manage accounts./n
+• Support for multiple user accounts on a single device./n
+• Main feed displaying all available films categorized by genre./n
+• Intuitive and user-friendly ticket booking process./n
+• Capability to calculate total charges based on ticket quantity and types (adult/child)./n
+• Access to view and manage the latest ticket bookings on the user's ticket page./n
 
 Moreover, the app is expected to be developed using MiT App Inventor to store details in the database using TinyDB. This includes user account information, the number of tickets booked by each user, and details of the latest ticket booked by the user.
 
