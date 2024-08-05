@@ -1,4 +1,4 @@
-# PANDA-FILM-Mobile-Application
+# PANDA-FILM-Mobile-Application (develope using MiT App Inventor)
 
 <h2> PROBLEM STATEMENT </h2>
 The main goal of creating the proposed website and mobile app for PANDA FILM is to simplify the ticket booking process and improve customer satisfaction. Currently, customers encounter challenges such as long lines at ticket counters, limited seat availability due to high demand, and the difficulty of making last-minute decisions about movie plans. These obstacles may discourage potential customers from choosing PANDA FILM over competitors with more convenient booking options. By introducing a mobile app for ticket booking, we aim is to address these challenges and provide a smooth booking experience that attracts more customers to our cinemas.
